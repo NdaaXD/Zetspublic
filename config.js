@@ -12,24 +12,24 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281252848955']
+global.owner = ['6288239928939']
 global.premium = ['0']
-global.ownername = 'Zetaa'
-global.botname = 'Zets Public'
-global.packname = '© ZETS - MULTI DEVICE'
-global.gc = 'https://bit.ly/3KMlmv2'
-global.linkyt = 'https://youtube.com/channel/UC9Si3U0o9dGS9MDfJR5iF6Q'
-global.linkgc = 'https://chat.whatsapp.com/DwP6uHYBWBc6TBSsNJrzwN'
+global.ownername = 'Ndaa'
+global.botname = 'NdaaBotz-MD'
+global.packname = '4u'
+global.gc = 'https://chat.whatsapp.com/D4VFjrhnyQRDPcvS5MfY5g'
+global.linkyt = 'https://youtube.com/'
+global.linkgc = 'https://chat.whatsapp.com/D4VFjrhnyQRDPcvS5MfY5g'
 global.limitawal = '100'
-global.author = '@naando.jpeg\n@alya.xzy'
-global.sessionName = 'sessionya'
+global.author = 'Ndaa'
+global.sessionName = 'Ndaa'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⌕'
 global.mess = {
-    success: 'Berhasil',
-    admin: 'Fitur Khusus Admin Group!',
+    success: 'Succes',
+    admin: 'Amin Only!!',
     botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
-    owner: 'Fitur Khusus Owner Bot',
+    owner: 'owner Only!',
     group: 'Fitur Digunakan Hanya Untuk Group!',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
